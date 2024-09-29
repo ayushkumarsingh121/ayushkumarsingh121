@@ -1,5 +1,5 @@
 # 💫 About Me:
-- **Ayush Kumar Singh** | 💻 *Frontend Wizard*  <br> **🎓 BCA 2nd Year (3rd Semester) @ Uttaranchal University**  <br>**🔥 19 y/o coding enthusiast**  <br>**⚡ Mastering: HTML | CSS | JavaScript | React.js | Material UI**  <br> **🚀 On a mission to build web experiences that stand out!**
+- **Ayush Kumar Singh** | 💻 **Frontend Wizard**  <br> **🎓 BCA 2nd Year (3rd Semester) @ Uttaranchal University**  <br>**🔥 19 y/o coding enthusiast**  <br>**⚡ Mastering: HTML | CSS | JavaScript | React.js | Material UI**  <br> **🚀 On a mission to build web experiences that stand out!**
 
 
 ## 🌐 Socials:
