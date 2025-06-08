@@ -1,7 +1,7 @@
 ![212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41](https://github.com/user-attachments/assets/6ff25938-0800-4035-8d86-43f7786420cc)
 
 # 💫 About Me:
-- **Ayush Kumar Singh** | 💻 **Frontend Wizard**  <br> **🎓 BCA 2nd Year (3rd Semester) @ Uttaranchal University**  <br>**🔥 19 y/o coding enthusiast**  <br>**⚡ Mastering: HTML | CSS | JavaScript | React.js | Material UI**  <br> **🚀 On a mission to build web experiences that stand out!**
+- **Ayush Kumar Singh** | 💻 **Frontend Wizard**  <br> **🎓 BCA 2nd Year (4th Semester) @ Uttaranchal University**  <br>**🔥 20 y/o coding enthusiast**  <br>**⚡ Mastering: HTML | CSS | JavaScript | React.js | Material UI**  <br> **🚀 On a mission to build web experiences that stand out!**
 
 
 ## 🌐 Socials:
